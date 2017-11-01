@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YK20171026.iml" filepath="$PROJECT_DIR$/YK20171026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenlingge20171026/chenlingge20171026.iml" filepath="$PROJECT_DIR$/chenlingge20171026/chenlingge20171026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaodemo/greendaodemo.iml" filepath="$PROJECT_DIR$/greendaodemo/greendaodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanchazhe/guanchazhe.iml" filepath="$PROJECT_DIR$/guanchazhe/guanchazhe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerdemo/handlerdemo.iml" filepath="$PROJECT_DIR$/handlerdemo/handlerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhujie/zhujie.iml" filepath="$PROJECT_DIR$/zhujie/zhujie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhujie2/zhujie2.iml" filepath="$PROJECT_DIR$/zhujie2/zhujie2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhujie3/zhujie3.iml" filepath="$PROJECT_DIR$/zhujie3/zhujie3.iml" />
+    </modules>
+  </component>
+</project>
